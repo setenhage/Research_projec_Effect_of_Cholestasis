@@ -8,6 +8,6 @@ Welcome to the repository for our research project on the effect of cholestasis 
 **Conclusion:** Thus we hypothesize an underlying interplay between ECM re-organization, inflammatory response and hsa-34-5p upregulation in cholestasis. Research into this field will help elucidate the underlying mechanism of cholestasis and potentially lead to novel therapeutic strategies.
 
 ## Contributors
-Raphael Stolpe
+Raphael Stolpe <br/>
 Suzanne ten Hage
 
