@@ -9,5 +9,5 @@ Welcome to the repository for our research project on the effect of cholestasis 
 
 ## Contributors
 Raphael Stolpe <br/>
-Suzanne ten Hage
+Suzanne ten Hage <br/>
 
